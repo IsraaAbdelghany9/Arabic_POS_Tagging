@@ -1,0 +1,15 @@
+# CoNLL-U parsing
+conllu
+pyconll
+
+# Transformers, tokenizers, datasets, and evaluation
+transformers
+datasets
+evaluate
+
+# TensorFlow 
+tensorflow
+
+# Core packages
+numpy
+regex  # for re module (optional if needed more advanced regex)
