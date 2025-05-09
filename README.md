@@ -21,3 +21,8 @@ This project focuses on Part-of-Speech (POS) tagging for Arabic text using machi
 3. Ensure TensorFlow is installed with GPU support (optional for faster training):
    ```bash
    pip install tensorflow
+
+
+## Troubleshooting
+- Out of Memory Errors: Reduce the batch size or enable mixed precision training.
+- GPU Configuration Issues: Ensure TensorFlow is properly configured to use your GPU.
