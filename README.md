@@ -11,8 +11,8 @@ This project focuses on Part-of-Speech (POS) tagging for Arabic text using machi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/IsraaAbdelghany9/Arabic_POS_Tagging.git
+   cd Arabic_POS_Tagging
 
 2. Install the required dependencies:
    ```bash
