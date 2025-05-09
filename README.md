@@ -43,4 +43,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [TensorFlow](https://www.tensorflow.org/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - Arabic NLP community for datasets and resources.
-```
+
