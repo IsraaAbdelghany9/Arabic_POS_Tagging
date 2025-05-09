@@ -17,3 +17,7 @@ This project focuses on Part-of-Speech (POS) tagging for Arabic text using machi
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+
+3. Ensure TensorFlow is installed with GPU support (optional for faster training):
+   ```bash
+   pip install tensorflow
