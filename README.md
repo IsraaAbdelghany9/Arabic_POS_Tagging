@@ -13,3 +13,7 @@ This project focuses on Part-of-Speech (POS) tagging for Arabic text using machi
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
